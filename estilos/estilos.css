@@ -1,3 +1,29 @@
+*,  *:before, *:after{
+    box-sizing: border-box;
+  }
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.header{
+    background-color: aqua;
+    color: azure;
+    height: 100px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 4px 4px 0px rgba(200, 200, 200, .2);
+    line-height: 100px;
+}
+.header h1{
+    margin: 0 0 0 20px;
+}
+.main-section{
+    color: black;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-section p{
+    line-height: 1.2;
 }
