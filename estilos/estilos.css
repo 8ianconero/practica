@@ -27,3 +27,15 @@ body{
 .main-section p{
     line-height: 1.2;
 }
+.footer{
+    background-color: rgb(49, 49, 49);
+    color: white;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.footer p{
+    padding: .5rem;
+    font-weight: 700;
+}
