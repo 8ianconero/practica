@@ -4,4 +4,6 @@ Primera modificación del archivo
 
 Segunda modificación del archivo
 
+Master 1
+
 Tercera modificacion para comparacion de archivos
